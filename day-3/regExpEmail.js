@@ -1,3 +1,4 @@
+// Run command `node regExpEmail.js user.name@email.com
 const email = process.argv[2];
 
 const pattern =
