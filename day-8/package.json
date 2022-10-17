@@ -1,0 +1,7 @@
+{
+  "name": "@sahmed143/day-8",
+  "version": "1.0.0",
+  "description": "practice how to publish npm package",
+  "main": "index.js",
+  "license": "MIT"
+}
